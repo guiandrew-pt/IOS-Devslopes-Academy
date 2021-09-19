@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Your hourly wage"; ObjectID = "71e-y5-xCL"; */
+"71e-y5-xCL.placeholder" = "Your hourly wage";
+
+/* Class = "UITextField"; text = "$13.00"; ObjectID = "71e-y5-xCL"; */
+"71e-y5-xCL.text" = "$13.00";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "JOC-MD-hlp"; */
+"JOC-MD-hlp.text" = "32";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "RlF-mN-bbE"; */
+"RlF-mN-bbE.text" = "Hours";
+
+/* Class = "UITextField"; placeholder = "Item price"; ObjectID = "TjN-sX-qwH"; */
+"TjN-sX-qwH.placeholder" = "Item price";
+
+/* Class = "UITextField"; text = "$416.00"; ObjectID = "TjN-sX-qwH"; */
+"TjN-sX-qwH.text" = "$416.00";
+
+/* Class = "UIButton"; normalTitle = "Clear Calculator"; ObjectID = "qKE-X1-zn7"; */
+"qKE-X1-zn7.normalTitle" = "Clear Calculator";
