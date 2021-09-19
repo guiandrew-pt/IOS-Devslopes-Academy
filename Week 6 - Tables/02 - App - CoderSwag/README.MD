@@ -1,0 +1,1 @@
+- The objective of this app is to apply table cell, delegate & data source.
