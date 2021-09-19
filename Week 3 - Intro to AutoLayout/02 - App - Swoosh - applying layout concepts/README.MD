@@ -1,0 +1,1 @@
+- The objective of this app is to apply the Auto Layout, Stack Views, Intro to segues, IBActions and data modeling, and Passing data between view controllers.
